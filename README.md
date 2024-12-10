@@ -2,6 +2,10 @@
 
 ## :sparkles: features
 
+opens signature inside function calls:
+
+![screenshot](./.github/images/screenshot.png)
+
 ## :lock: requirements
 
 - Neovim `>= 0.10.0`
